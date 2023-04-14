@@ -1,8 +1,10 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from "react";
-import "react-responsive-carousel/lib/styles/carousel.min.css"; 
+import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from "react-responsive-carousel";
-
+import img1 from '../Images/About.png';
+import img2 from '../Images/home1.png';
+import img3 from '../Images/home4.png';
 
 class Scrolling extends React.Component {
   render() {
@@ -17,19 +19,19 @@ class Scrolling extends React.Component {
         >
           <div >
             <img
-              src={`Images`+ "/About.jpg"}
+              src={img1}
               height="600px"
             />
           </div>
           <div>
             <img
-              src={`Images`+ "/home1.jpg"}
+              src={img2}
               height="600px"
             />
           </div>
           <div>
             <img
-              src={`Images`+ "/home4.jpg"}
+              src={img3}
               height="600px"
             />
           </div>
