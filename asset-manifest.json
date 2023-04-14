@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DairyExpressLive/static/css/main.14a3cb58.css",
+    "main.js": "/DairyExpressLive/static/js/main.f7160a47.js",
+    "static/js/787.82695112.chunk.js": "/DairyExpressLive/static/js/787.82695112.chunk.js",
+    "static/media/AddProduct.jpg": "/DairyExpressLive/static/media/AddProduct.20667a85c15618cd01aa.jpg",
+    "static/media/AddProduct2.jpg": "/DairyExpressLive/static/media/AddProduct2.abe9fe082d77a1aa6824.jpg",
+    "index.html": "/DairyExpressLive/index.html",
+    "main.14a3cb58.css.map": "/DairyExpressLive/static/css/main.14a3cb58.css.map",
+    "main.f7160a47.js.map": "/DairyExpressLive/static/js/main.f7160a47.js.map",
+    "787.82695112.chunk.js.map": "/DairyExpressLive/static/js/787.82695112.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14a3cb58.css",
+    "static/js/main.f7160a47.js"
+  ]
+}
