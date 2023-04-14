@@ -17,7 +17,6 @@ class Scrolling extends React.Component {
         >
           <div >
             <img
-            
               src={`Images`+ "/About.jpg"}
               height="600px"
             />
